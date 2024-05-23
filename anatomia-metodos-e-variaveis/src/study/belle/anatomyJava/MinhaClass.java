@@ -1,3 +1,4 @@
+package study.belle.anatomyJava;
 public class MinhaClass {
 
     public static void main(String [] args) {
