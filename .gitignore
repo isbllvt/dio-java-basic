@@ -22,3 +22,6 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+anatomia/.vscode/settings.json
+tipos-variaveis/aula1/.vscode/settings.json
+First-hello-java/.vscode/settings.json
